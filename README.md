@@ -7,6 +7,7 @@
 TransitAI is an iPhone app for Prague public transport (PID) with a conversational AI interface. Instead of clicking through menus, just type or say where you want to go -- in Czech or English -- and the app figures out the best route for you.
 
 **This is a PoC / early MVP.** Things may be rough around the edges. Transit data is currently static (demo data), and live API integration is planned for the future.
+
 ![246C1547-9AEA-4FB6-800A-A955DA85F89E_1_105_c](https://github.com/user-attachments/assets/f9f0f597-f89f-4345-a0b0-702b67f6965a) ![552CC9B1-2B01-404D-B609-A7A1FB8726C7_1_105_c](https://github.com/user-attachments/assets/a9d58c0c-0142-4783-b14e-c48ab7d6ef8d)
 ![2AFDDE0E-DF98-4F09-A785-F9B1231882F7_1_105_c](https://github.com/user-attachments/assets/0fadba0e-78b5-4cd5-ab29-77d7855bfecd) ![4F3D5D4E-E902-43DC-A6BD-0FAF594847A4_1_105_c](https://github.com/user-attachments/assets/1504a5a3-6f8d-4bf6-b471-df2fae95028e)
 
